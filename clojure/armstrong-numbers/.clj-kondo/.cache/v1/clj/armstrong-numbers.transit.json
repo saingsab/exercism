@@ -1,0 +1,1 @@
+["^ ","~$armstrong?",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$armstrong-numbers","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:boolean","~:arglist-str","[num]"]],"~:type","~:fn"],"~:filename","/home/ayoung/komrong/exercism/clojure/armstrong-numbers/src/armstrong_numbers.clj"]
