@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HammingTest" tests="7" skipped="6" failures="0" errors="0" timestamp="2024-04-04T09:34:00" hostname="ayoung-ig-lp" time="0.012">
+  <properties/>
+  <testcase name="single letter identical strands" classname="HammingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="empty strands" classname="HammingTest" time="0.012"/>
+  <testcase name="long different strands" classname="HammingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="disallow first strand longer" classname="HammingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="long identical strands" classname="HammingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="disallow second strand longer" classname="HammingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="single letter different strands" classname="HammingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
